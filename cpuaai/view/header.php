@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <link rel="stylesheet" href="view/bootstrap/bootstrap.min.css">
+  <script src="view/bootstrap/jquery.min.js"></script>
+  <script src="view/bootstrap/popper.min.js"></script>
+  <script src="view/bootstrap/bootstrap.min.js"></script>
+  
+</head>
+<body>
+
+<div class="container-fluid" style="background-color:#030A28; color:white">
+<div class="row">
+  <div class="col-sm-12">
+    <img src="view/images/logo/cpu-logo.png" class="float-left"> <h3 class="mt-5 float-left ml-5">CENTRAL PHILIPPINE UNIVERSITY ALUMNI ASSOCIATION, INC.</h3>
+  </div>
+</div>
+</div>
